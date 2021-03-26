@@ -1,0 +1,8 @@
+.alert__container {
+    background-color: #23C37B;
+    text-align: center;
+    padding: 10px;
+    color: #FFF;
+    font-family: 'Roboto';
+    border-radius: 10px;
+}
